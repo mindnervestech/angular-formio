@@ -1,0 +1,1 @@
+{"version":3,"file":"formio.loader.component.d.ts","sources":["formio.loader.component.d.ts"],"names":[],"mappings":";AAAA;AACA;;;AACA","sourcesContent":["export declare class FormioLoaderComponent {\n    isLoading: boolean;\n}\n"]}

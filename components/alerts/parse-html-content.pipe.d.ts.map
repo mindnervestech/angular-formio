@@ -1,0 +1,1 @@
+{"version":3,"file":"parse-html-content.pipe.d.ts","sources":["parse-html-content.pipe.d.ts"],"names":[],"mappings":"AAAA;;AACA;AACA;;;AACA","sourcesContent":["import { PipeTransform } from '@angular/core';\nexport declare class ParseHtmlContentPipe implements PipeTransform {\n    transform(content: any): string;\n}\n"]}

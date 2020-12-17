@@ -1,0 +1,1 @@
+{"version":3,"file":"formio.config.d.ts","sources":["formio.config.d.ts"],"names":[],"mappings":";AAAA;AACA;AACA;AACA;AACA;;;AACA","sourcesContent":["export declare class FormioAppConfig {\n    appUrl: string;\n    apiUrl: string;\n    icons?: string;\n    formOnly?: boolean;\n}\n"]}

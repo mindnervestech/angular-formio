@@ -1,0 +1,1 @@
+{"version":3,"file":"formio.module.d.ts","sources":["formio.module.d.ts"],"names":[],"mappings":";;;;;;;AAAA;;;AACA","sourcesContent":["export declare class FormioModule {\n}\n"]}

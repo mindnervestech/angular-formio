@@ -1,0 +1,1 @@
+{"version":3,"file":"custom-tags.service.d.ts","sources":["custom-tags.service.d.ts"],"names":[],"mappings":";AAAA;AACA;AACA;;;AACA","sourcesContent":["export declare class CustomTagsService {\n    tags: string[];\n    addCustomTag(tag: string): void;\n}\n"]}
